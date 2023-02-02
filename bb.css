@@ -1,5 +1,7 @@
 body {
+ 
     margin: 0px;
     background-color: gold;
     overflow: hidden;
+    border: solid black 1px;
 }
